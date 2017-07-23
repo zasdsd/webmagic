@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/mj/activity/BtcServer.java=UTF-8
+encoding//src/main/java/com/mj/model/NotifyModel.java=UTF-8
+encoding//src/main/java/com/mj/processor/BtcProcessor.java=UTF-8
+encoding//src/main/java/com/mj/processor/BtcTradeProcessor.java=UTF-8
+encoding//src/main/java/com/mj/processor/MiaoAProcessor.java=UTF-8
+encoding//src/main/java/com/mj/processor/NewStockPlateProcessor.java=UTF-8
+encoding//src/main/java/com/mj/util/date/VeDate.java=UTF-8
+encoding//src/main/java/com/mj/util/mail/MailUtil.java=UTF-8
+encoding//src/main/java/com/mj/util/quartz/QuartzManager.java=GBK
+encoding/<project>=GBK
